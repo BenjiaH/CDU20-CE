@@ -40,3 +40,5 @@
 [![17.MinGW安装管理器——开始下载安装MinGW组件](https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy5yc3JlbGFuZC5uZXQvMzQ0LzM0NF8xNy5wbmc?x-oss-process=image/format,png)](http://img.rsreland.net/344/344_17.png)
 
 MinGW 安装管理器正在一边下载一边安装 MinGW，在这一过程中，视乎您的网络情况，可能会花费很长的时间。而且因为安装管理器链接的是外国的服务器，也会导致下载速度缓慢，所以我们需要耐心的等待一段时间。
+
+[返回](README.md)
