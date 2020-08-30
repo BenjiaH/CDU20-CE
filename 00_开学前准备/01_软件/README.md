@@ -32,6 +32,7 @@
 
 	[下载MinGW Installer](https://mirrors.tuna.tsinghua.edu.cn/osdn/mingw/68260/mingw-get-setup.exe)
 
-	[安装教程](MinGW Installer_Installation_Guide.md)
+	[安装教程](MinGW_Installer_Installation_Guide.md)
+
 
 [返回上一级](../README.md)
