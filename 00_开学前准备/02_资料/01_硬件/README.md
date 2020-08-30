@@ -8,8 +8,11 @@
 	
 	视频：[最新/最全清翔零基础51单片机教程+数据手册指导+提升](https://www.bilibili.com/video/BV1nt411f7To)
 	
-	配套资料：[点击下载](https://share.weiyun.com/WvQlF5GI)
+	配套资料：[下载51开发板资料V3_2](https://share.weiyun.com/WvQlF5GI)
 
-- 硬件方向导图.pdf
+- 硬件方向导图
 
 	此文档为科创室出品，对硬件学习与发展有一个基本的描述。
+	
+	[下载硬件方向导图.pdf](https://pan.baidu.com/s/1G-0Q43rfVvmlQ-nZanlsGA)	提取码：8888
+
