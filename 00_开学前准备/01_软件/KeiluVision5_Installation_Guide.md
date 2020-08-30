@@ -1,27 +1,27 @@
  1. 解压完成后首先运行MDK531.EXE，点击Next
 
-		![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830201505.png)
+    ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830201505.png)
 
 2. 同意协议并点击Next
 
-		![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830201624.png)
+    ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830201624.png)
 
 3. 选择Core和Pack的安装路径。一般来说Core安装在X:\Keil_v5，Pack安装在X:\Keil_v5\Arm\Packs，**其中X不能为系统盘（一般为C盘）**。然后点击Next。
 
-		![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830202012.png)
+    ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830202012.png)
 
 4. 个人信息四个选项中，**各输入一个空格即可**。然后点击Next。
 
-		![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830202320.png)
+    ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830202320.png)
 
 5. 开始安装，请耐心等待。
 
-		![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830202419.png)
-		
+    ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830202419.png)
+	
 6. 取消勾选。点击Finish退出安装。
 
-		![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830202608.png)
-		
+    ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830202608.png)
+	
  7. 在新打开的窗口中点击OK。**然后关闭Pack Installer。**
 
     ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830203041.png)
