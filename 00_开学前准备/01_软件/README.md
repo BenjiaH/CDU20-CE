@@ -34,4 +34,4 @@
 
 	[安装教程](MinGW Installer_Installation_Guide.md)
 
-[返回](../README.md)
+[返回上一级](../README.md)

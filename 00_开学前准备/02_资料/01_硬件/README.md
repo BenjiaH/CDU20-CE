@@ -14,6 +14,6 @@
 
 	此文档为科创室出品，对硬件学习与发展有一个基本的描述。
 	
-	[下载硬件方向导图.pdf](https://pan.baidu.com/s/1G-0Q43rfVvmlQ-nZanlsGA)	提取码：8888
+	[下载硬件方向导图.pdf](http://193.112.54.212:6081/api/public/dl/jsIkulMl/%E7%A1%AC%E4%BB%B6%E6%96%B9%E5%90%91%E5%AF%BC%E5%9B%BE.pdf)
 
-[返回](../README.md)
+[返回上一级](../README.md)
