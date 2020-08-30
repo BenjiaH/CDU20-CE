@@ -36,7 +36,7 @@
 
  10. 开始安装，请耐心等待。
 
-    ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830203818.png)
+     ![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830203818.png)
 
  11. 如果出现以下提示，选择Replace all即可。
 
