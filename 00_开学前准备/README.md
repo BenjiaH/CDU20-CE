@@ -36,12 +36,12 @@
 
 	​	确保你的百度网盘为最新版本。
 
-	![](data/img/01.png)
+	![](data/img/README_01.png)
 
 	​	按照图片进行修改。选择提速模式。
 
-	![](data/img/02.png)
+	![](data/img/README_02.png)
 
-	![](data/img/03.png)
+	![](data/img/README_03.png)
 
 [返回上一级](../README.md)
