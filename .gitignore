@@ -1,7 +1,6 @@
 *.zip
 *.rar
 *.7z
-*.png
 *.pdf
 *.exe
 /Keil uVision5

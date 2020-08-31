@@ -30,18 +30,18 @@
 
 - 关于软件及资料的下载，我们将采取多种方式，比如直链下载、网盘下载等。
 
+- 下载的部分文件为压缩包(zip,rar,7z等)，需要使用解压软件，这里推荐一款：[Bandizip](https://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE)。
+
 - 在使用百度网盘(PC客户端)进行下载时，需要一些必要的操作：
 
 	​	确保你的百度网盘为最新版本。
 
-	![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830164628.png)
+	![](E:\资料\CDU\2.工作\科创室\教学\CDU20-CE-Guide\00_开学前准备\data\img\01.png)
 
 	​	按照图片进行修改。选择提速模式。
 
-	![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830165137.png)
+	![](E:\资料\CDU\2.工作\科创室\教学\CDU20-CE-Guide\00_开学前准备\data\img\02.png)
 
-	![](https://raw.githubusercontent.com/BenjiaH/cloudimg/master/data/20200830165000.png)
-
-- 下载的部分文件为压缩包，需要使用解压软件，这里推荐一款：[Bandizip](https://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE)
+	![](E:\资料\CDU\2.工作\科创室\教学\CDU20-CE-Guide\00_开学前准备\data\img\03.png)
 
 [返回上一级](../README.md)
