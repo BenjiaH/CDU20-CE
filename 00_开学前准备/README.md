@@ -36,12 +36,12 @@
 
 	​	确保你的百度网盘为最新版本。
 
-	![](E:\资料\CDU\2.工作\科创室\教学\CDU20-CE-Guide\00_开学前准备\data\img\01.png)
+	![](data/img/01.png)
 
 	​	按照图片进行修改。选择提速模式。
 
-	![](E:\资料\CDU\2.工作\科创室\教学\CDU20-CE-Guide\00_开学前准备\data\img\02.png)
+	![](data/img/02.png)
 
-	![](E:\资料\CDU\2.工作\科创室\教学\CDU20-CE-Guide\00_开学前准备\data\img\03.png)
+	![](data/img/03.png)
 
 [返回上一级](../README.md)
