@@ -1,6 +1,6 @@
  1. 解压完成后首先运行MDK531.EXE，点击Next
 
-    ![](data\img\KeiluVision5_Installation_Guide_01.png)
+    ![](data/img/KeiluVision5_Installation_Guide_01.png)
 
 2. 同意协议并点击Next
 
