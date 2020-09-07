@@ -5,3 +5,5 @@
 - 联系方式：[QQ：875927790(点击以添加)](http://wpa.qq.com/msgrd?v=3&uin=875927790&site=qq&menu=yes){:target="_blank"}
 - Github:[https://github.com/BenjiaH/CDU20-CE](https://github.com/BenjiaH/CDU20-CE){:target="_blank"}
 - Gitee:[https://gitee.com/benjiah/CDU20-CE](https://gitee.com/benjiah/CDU20-CE){:target="_blank"}
+<a href="https://gitee.com/benjiah/CDU20-CE" target="_blank">Gitee：</a>
+Gitee：<a href="https://gitee.com/benjiah/CDU20-CE" target="_blank">https://gitee.com/benjiah/CDU20-CE</a>
