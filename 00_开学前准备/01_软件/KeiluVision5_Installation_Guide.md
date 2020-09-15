@@ -58,9 +58,9 @@
 
      ![](data/img/KeiluVision5_Installation_Guide_15.png)
 
- 16. **运行keygen_new(2032)文件夹中的keygen_new2032.exe**。
+ 16. **运行keygen_new(2032)文件夹中的keygen_new2032.exe。**
 
- 17. **在CID中粘贴刚才复制的代码。选择Target为ARM，模式为Professional，点击Generate，选中并复制生成的代码。不要关闭keygen_new2032.exe**如图所示。
+ 17. **在CID中粘贴刚才复制的代码。选择Target为ARM，模式为Professional，点击Generate，选中并复制生成的代码。不要关闭keygen_new2032.exe。**如图所示。
 
      ![](data/img/KeiluVision5_Installation_Guide_16.png)
 
