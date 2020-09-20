@@ -6,7 +6,7 @@
 
     ![](data/img/KeiluVision5_Installation_Guide_02.png)
 
-3. 选择Core和Pack的安装路径。一般来说Core安装在X:/Keil_v5，Pack安装在X:/Keil_v5/Arm/Packs，**其中X不能为系统盘（一般为C盘）**。然后点击Next。
+3. 选择Core和Pack的安装路径。一般来说Core安装在X:/Keil_v5，Pack安装在X:/Keil_v5/Arm/Packs，**其中X不能为系统盘（一般为C盘）注：安装路径中不能有中文**。然后点击Next。
 
     ![](data/img/KeiluVision5_Installation_Guide_03.png)
 
@@ -26,7 +26,7 @@
 
     ![](data/img/KeiluVision5_Installation_Guide_07.png)
 
- 8. **运行c51v960a.exe**，点击Next直到出现以下界面，选择安装路径。**请选择第三步中相同路径X:/Keil_v5。**（一般来说，系统会自动检测路径。）并点击Next。
+ 8. **运行c51v960a.exe**，点击Next直到出现以下界面，选择安装路径。**请选择第三步中相同路径X:/Keil_v5。注：安装路径中不能有中文**（一般来说，系统会自动检测路径。）并点击Next。
 
     ![](data/img/KeiluVision5_Installation_Guide_08.png)
 
@@ -58,9 +58,9 @@
 
      ![](data/img/KeiluVision5_Installation_Guide_15.png)
 
- 16. **运行keygen_new(2032)文件夹中的keygen_new2032.exe**。
+ 16. **运行Keil Generic Keygen.exe**。
 
- 17. **在CID中粘贴刚才复制的代码。选择Target为ARM，模式为Professional，点击Generate，选中并复制生成的代码。不要关闭keygen_new2032.exe **如图所示。
+ 17. **在CID中粘贴刚才复制的代码。选择Target为ARM，模式为Professional，点击Generate，选中并复制生成的代码。不要关闭Keil Generic Keygen.exe。**如图所示。
 
      ![](data/img/KeiluVision5_Installation_Guide_16.png)
 
@@ -68,7 +68,7 @@
 
      ![](data/img/KeiluVision5_Installation_Guide_17.png)
 
- 19. 回到keygen_new2032.exe。**更改Target为C51。再次点击Generate，选中并复制生成的代码。**
+ 19. 回到Keil Generic Keygen.exe。**更改Target为C51。再次点击Generate，选中并复制生成的代码。**
 
      ![](data/img/KeiluVision5_Installation_Guide_18.png)
 
@@ -76,6 +76,6 @@
 
      ![](data/img/KeiluVision5_Installation_Guide_19.png)
 
- 21. 关闭Keil uVision5和keygen_new2032.exe。
+ 21. 关闭Keil uVision5和Keil Generic Keygen.exe。
 
 [返回上一级](README.md)
