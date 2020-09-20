@@ -57,17 +57,9 @@
  15. 选中CID,右键复制。
 
      ![](data/img/KeiluVision5_Installation_Guide_15.png)
-
-<<<<<<< HEAD
  16. **运行Keil Generic Keygen.exe**。
 
  17. **在CID中粘贴刚才复制的代码。选择Target为ARM，模式为Professional，点击Generate，选中并复制生成的代码。不要关闭Keil Generic Keygen.exe。**如图所示。
-=======
- 16. **运行keygen_new(2032)文件夹中的keygen_new2032.exe。**
-
- 17. **在CID中粘贴刚才复制的代码。选择Target为ARM，模式为Professional，点击Generate，选中并复制生成的代码。不要关闭keygen_new2032.exe。**如图所示。
->>>>>>> a94508f1c19b8c7d23d18056a7e1549ab419aed1
-
      ![](data/img/KeiluVision5_Installation_Guide_16.png)
 
  18. 将代码粘贴到刚才打开的License Management的New License ID Code中。点击Add LIC。出现如图所示即为成功。
