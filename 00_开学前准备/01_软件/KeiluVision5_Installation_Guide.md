@@ -1,4 +1,4 @@
- 1. 解压完成后首先运行MDK531.EXE，点击Next
+ 1. 解压完成后首先运行MDK531.EXE，点击Next。
 
     ![](data/img/KeiluVision5_Installation_Guide_01.png)
 
@@ -22,11 +22,11 @@
 
     ![](data/img/KeiluVision5_Installation_Guide_06.png)
 	
- 7. 在新打开的窗口中点击OK。**然后关闭Pack Installer。**
+ 7. 在新打开的窗口中点击OK。**然后关闭Pack Installer和Keil uVision® 5**
 
     ![](data/img/KeiluVision5_Installation_Guide_07.png)
 
- 8. **运行c51v960a.exe**，点击Next直到出现以下界面，选择安装路径。**请选择第三步中相同路径X:/Keil_v5。注：安装路径中不能有中文**（一般来说，系统会自动检测路径。）并点击Next。
+ 8. **运行c51v960a.exe**，点击Next直到出现以下界面，选择安装路径。**请选择第3步中相同路径X:/Keil_v5。注：安装路径中不能有中文**（一般来说，系统会自动检测路径。）并点击Next。
 
     ![](data/img/KeiluVision5_Installation_Guide_08.png)
 
@@ -46,7 +46,7 @@
 
      ![](data/img/KeiluVision5_Installation_Guide_12.png)
 
- 13. 在桌面左下角中打开开始菜单，找到最近添加中的Keil uVision5，点击右键，**选择以管理员方式运行**。
+ 13. 在桌面左下角中打开开始菜单，找到最近添加中的Keil uVision® 5，点击右键，**选择以管理员方式运行**。
 
      ![](data/img/KeiluVision5_Installation_Guide_13.png)
 
@@ -59,7 +59,7 @@
      ![](data/img/KeiluVision5_Installation_Guide_15.png)
  16. **运行Keil Generic Keygen.exe**。
 
- 17. **在CID中粘贴刚才复制的代码。选择Target为ARM，模式为Professional，点击Generate，选中并复制生成的代码。不要关闭Keil Generic Keygen.exe。**如图所示。
+ 17. **在CID中粘贴刚才复制的代码。选择Target为ARM，模式为Professional，点击Generate，选中并复制生成的代码。注意不要关闭Keil Generic Keygen.exe。** 如图所示。
      ![](data/img/KeiluVision5_Installation_Guide_16.png)
 
  18. 将代码粘贴到刚才打开的License Management的New License ID Code中。点击Add LIC。出现如图所示即为成功。
@@ -75,5 +75,7 @@
      ![](data/img/KeiluVision5_Installation_Guide_19.png)
 
  21. 关闭Keil uVision5和Keil Generic Keygen.exe。
+
+ 22. 安装完成。
 
 [返回上一级](README.md)
