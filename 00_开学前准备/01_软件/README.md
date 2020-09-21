@@ -4,19 +4,23 @@
 
 - Altium® Designer
 
-	Altium® Designer（AD） 是一体化的电子产品开发系统，主要运行在Windows操作系统。这套软件通过把原理图设计、电路仿真、PCB绘制编辑、拓扑逻辑自动布线、信号完整性分析和设计输出等技术的完美融合，为设计者提供了全新的设计解决方案。
+  Altium® Designer（AD） 是一体化的电子产品开发系统，主要运行在Windows操作系统。这套软件通过把原理图设计、电路仿真、PCB绘制编辑、拓扑逻辑自动布线、信号完整性分析和设计输出等技术的完美融合，为设计者提供了全新的设计解决方案。
 
-	[下载 Altium Designer 20(64bit).rar](https://pan.baidu.com/s/1qAUJxU0-VIVNXgBlgoJejg)	提取码：8888
+  下载地址1：[Altium Designer 20(64bit).rar](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/01_%E8%BD%AF%E4%BB%B6/Altium%20Designer%2020%2864bit%29.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1600677440;1602405440&q-key-time=1600677440;1602405440&q-header-list=&q-url-param-list=&q-signature=efd1db56d59d3227856950012a88f10f76239679)
 
-	[安装教程](https://mp.weixin.qq.com/s/8kcLKTzMeBBS7DCIVw6jFg)
+  下载地址2：[Altium Designer 20(64bit).rar](https://pan.baidu.com/s/1qAUJxU0-VIVNXgBlgoJejg)	提取码：8888
+
+  [安装教程](https://mp.weixin.qq.com/s/8kcLKTzMeBBS7DCIVw6jFg)
 
 - Keil uVision® 5
 
-	提供Cortex和Arm设备的开发环境。
+  提供Cortex和Arm设备的开发环境。
 
-	[下载Keil uVision5.7z](https://pan.baidu.com/s/1DUgbZaj4r1kI-rMC8A2ORw) 	提取码：8888
+  下载地址1：[Keil uVision5.7z](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/01_%E8%BD%AF%E4%BB%B6/Keil%20uVision5.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1600677511;1602405511&q-key-time=1600677511;1602405511&q-header-list=&q-url-param-list=&q-signature=9720161fccef370fbde2fe05d9f80cdeab145383) 
 
-	[安装教程](KeiluVision5_Installation_Guide.md)
+  下载地址2：[Keil uVision5.7z](https://pan.baidu.com/s/1DUgbZaj4r1kI-rMC8A2ORw) 	提取码：8888
+
+  [安装教程](KeiluVision5_Installation_Guide.md)
 
 - Visual Studio Code
 
