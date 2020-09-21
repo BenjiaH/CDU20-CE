@@ -26,7 +26,7 @@
 
 	一个强大的编辑器。
 
-	下载地址:[Visual Studio Code](https://vscode.cdn.azure.cn/stable/a0479759d6e9ea56afa657e454193f72aef85bd0/VSCodeSetup-x64-1.48.2.exe)
+	下载地址：[Visual Studio Code](https://vscode.cdn.azure.cn/stable/a0479759d6e9ea56afa657e454193f72aef85bd0/VSCodeSetup-x64-1.48.2.exe)
 
 	[安装教程](https://zhuanlan.zhihu.com/p/106357123)
 
@@ -34,7 +34,7 @@
 
 	MinGW包安装管理器。
 
-	下载地址:[MinGW Installer](https://mirrors.tuna.tsinghua.edu.cn/osdn/mingw/68260/mingw-get-setup.exe)
+	下载地址：[MinGW Installer](https://mirrors.tuna.tsinghua.edu.cn/osdn/mingw/68260/mingw-get-setup.exe)
 
 	[安装教程](MinGW_Installer_Installation_Guide.md)
 
