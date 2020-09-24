@@ -28,24 +28,27 @@
 
 ## <span id="ps">注意事项</span>
 
-- 请先临时关闭电脑上的任何杀毒软件。
+- **请先临时关闭电脑上的任何杀毒软件。**
+
+- 软件下载地址如果有两个的，可以选择“下载地址1”下载，速度较快，“下载地址1”是我自己掏钱买的带宽，大家不要滥用，能保证全班同学下载。
 
 - 关于软件及资料的下载，我们将采取多种方式，比如直链下载、网盘下载等。
 
-- 下载的部分文件为压缩包(zip,rar,7z等)，需要使用解压软件，这里推荐一款：**Bandzip** 。
-[官网](https://www.bandisoft.com/bandizip/)
-[下载地址](https://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE)
+- 下载的部分文件为压缩包(zip,rar,7z等)，需要使用解压软件，这里推荐一款：**Bandzip** 。  
+    - [官网](https://www.bandisoft.com/bandizip/)  
+    - [下载地址](https://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE)
 
-- 在使用百度网盘(PC客户端)进行下载时，需要一些必要的操作：
+- 在使用百度网盘(PC客户端)进行下载时，需要一些必要的操作，来的提高速度：
 
-	​	确保你的百度网盘为最新版本。
+    - 确保你的百度网盘为最新版本。
 
 	![](data/img/README_01.png)
 
-	​	按照图片进行修改。选择提速模式。
+    - 按照图片进行修改。选择提速模式。
 
 	![](data/img/README_02.png)
 
 	![](data/img/README_03.png)
+
 
 [返回上一级](../README.md)
