@@ -44,4 +44,6 @@
 
 	![17.MinGW安装管理器——开始下载安装MinGW组件](data/img/MinGW_Installer_Installation_Guide_09.png)
 
+10. 安装结束后即可退出MinGW安装管理器。
+
 [返回上一级](README.md)
