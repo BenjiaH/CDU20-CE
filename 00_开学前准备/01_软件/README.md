@@ -38,5 +38,10 @@
 
 	[安装教程](MinGW_Installer_Installation_Guide.md)
 
+- STC-ISP
+
+  STC-ISP 是一款单片机下载编程烧录软件，是针对STC系列单片机而设计的，可下载STC89系列、12C2052系列和12C5410等系列的STC单片机，使用简便。
+
+  下载地址：[stc-isp-15xx-v6.87O.zip](http://www.stcmcudata.com/STCISP/stc-isp-15xx-v6.87O.zip)
 
 [返回上一级](../README.md)
