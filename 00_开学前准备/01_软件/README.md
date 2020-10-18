@@ -28,7 +28,7 @@
 
 	下载地址：[Visual Studio Code](https://vscode.cdn.azure.cn/stable/a0479759d6e9ea56afa657e454193f72aef85bd0/VSCodeSetup-x64-1.48.2.exe)
 
-	[安装教程](https://zhuanlan.zhihu.com/p/106357123)
+	[安装教程](https://blog.csdn.net/Zhangguohao666/article/details/105665412)
 
 - MinGW Installer
 
