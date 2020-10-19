@@ -6,7 +6,7 @@
 
   Altium® Designer（AD） 是一体化的电子产品开发系统，主要运行在Windows操作系统。这套软件通过把原理图设计、电路仿真、PCB绘制编辑、拓扑逻辑自动布线、信号完整性分析和设计输出等技术的完美融合，为设计者提供了全新的设计解决方案。
 
-  下载地址1：[Altium Designer 20(64bit).rar](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/01_%E8%BD%AF%E4%BB%B6/Altium%20Designer%2020%2864bit%29.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685217;1605277217&q-key-time=1602685217;1605277217&q-header-list=&q-url-param-list=&q-signature=94bb565428326262dcffbd559e1c1ac58871a1fb)
+  ~~下载地址1：[Altium Designer 20(64bit).rar](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/01_%E8%BD%AF%E4%BB%B6/Altium%20Designer%2020%2864bit%29.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685217;1605277217&q-key-time=1602685217;1605277217&q-header-list=&q-url-param-list=&q-signature=94bb565428326262dcffbd559e1c1ac58871a1fb)~~
 
   下载地址2：[Altium Designer 20(64bit).rar](https://pan.baidu.com/s/1qAUJxU0-VIVNXgBlgoJejg)	提取码：8888
 
@@ -16,7 +16,7 @@
 
   提供Cortex和Arm设备的开发环境。
 
-  下载地址1：[Keil uVision5.7z](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/01_%E8%BD%AF%E4%BB%B6/Keil%20uVision5.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685254;1605277254&q-key-time=1602685254;1605277254&q-header-list=&q-url-param-list=&q-signature=20518f37de8adb3ea68d4658870c197500bf4610) 
+  ~~下载地址1：[Keil uVision5.7z](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/01_%E8%BD%AF%E4%BB%B6/Keil%20uVision5.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685254;1605277254&q-key-time=1602685254;1605277254&q-header-list=&q-url-param-list=&q-signature=20518f37de8adb3ea68d4658870c197500bf4610)~~ 
 
   下载地址2：[Keil uVision5.7z](https://pan.baidu.com/s/1DUgbZaj4r1kI-rMC8A2ORw) 	提取码：8888
 
