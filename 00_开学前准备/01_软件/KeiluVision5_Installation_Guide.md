@@ -1,3 +1,6 @@
+**如果图片加载失败，请点击下方链接查看教程。**
+**[>>>Gitee](https://gitee.com/benjiah/CDU20-CE)**
+
  1. 解压完成后首先运行MDK531.EXE，点击Next。
 
     ![](data/img/KeiluVision5_Installation_Guide_01.png)
