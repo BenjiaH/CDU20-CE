@@ -1,5 +1,5 @@
-<u> ***本页面含有图片。如果图片加载失败，请点击下方链接查看教程。*** </u>
-<u> ***[>>>Gitee](https://gitee.com/benjiah/CDU20-CE)*** </u>
+***本页面含有图片。如果图片加载失败，请点击下方链接查看教程。***<br>
+***[>>>Gitee](https://gitee.com/benjiah/CDU20-CE)***
 
 1. MinGW安装管理器的安装程序——首页
 
