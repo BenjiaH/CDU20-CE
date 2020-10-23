@@ -1,5 +1,5 @@
-**本页面含有图片。如果图片加载失败，请点击下方链接查看教程。**
-**[>>>Gitee](https://gitee.com/benjiah/CDU20-CE)**
+<u> ***本页面含有图片。如果图片加载失败，请点击下方链接查看教程。*** </u>
+<u> ***[>>>Gitee](https://gitee.com/benjiah/CDU20-CE)*** </u>
 
  1. 解压完成后首先运行MDK531.EXE，点击Next。
 
