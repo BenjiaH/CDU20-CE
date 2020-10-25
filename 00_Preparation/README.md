@@ -38,6 +38,13 @@
     - [官网](https://www.bandisoft.com/bandizip/)  
     - [下载地址](https://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE)
 
+- 正确的解压方式：
+
+    **请完全将压缩包解压，切忌单独提取文件使用！**
+
+![](../02_PCB_Design-Lesson1/data/img/2020-10-19_20-45.png)
+
+
 - 在使用百度网盘(PC客户端)进行下载时，需要一些必要的操作，来的提高速度：
 
     - 确保你的百度网盘为最新版本。
