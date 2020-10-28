@@ -18,9 +18,9 @@
 
 	此文档为科创室出品，对硬件学习与发展有一个基本的描述。
 	
-	~~下载地址1：[硬件方向导图.pdf](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/02_%E8%B5%84%E6%96%99/01_%E7%A1%AC%E4%BB%B6/%E7%A1%AC%E4%BB%B6%E6%96%B9%E5%90%91%E5%AF%BC%E5%9B%BE.pdf?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685331;1605277331&q-key-time=1602685331;1605277331&q-header-list=&q-url-param-list=&q-signature=ed29258badbebc4a49f9457414591062e4c1514c)~~
+	~~下载地址1：[硬件方向导图.pdf](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/02_%E8%B5%84%E6%96%99/01_%E7%A1%AC%E4%BB%B6/%E7%A1%AC%E4%BB%B6%E6%96%B9%E5%90%91%E5%AF%BC%E5%9B%BE.pdf?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685331;1605277331&q-key-time=1602685331;1605277331&q-header-list=&q-url-param-list=&q-signature=ed29258badbebc4a49f9457414591062e4c1514c)~~**[已失效]**
 	
-	~~下载地址2：[硬件方向导图.pdf](http://193.112.54.212:6081/api/public/dl/jsIkulMl/%E7%A1%AC%E4%BB%B6%E6%96%B9%E5%90%91%E5%AF%BC%E5%9B%BE.pdf)~~
+	~~下载地址2：[硬件方向导图.pdf](http://193.112.54.212:6081/api/public/dl/jsIkulMl/%E7%A1%AC%E4%BB%B6%E6%96%B9%E5%90%91%E5%AF%BC%E5%9B%BE.pdf)~~**[已失效]**
 
   下载地址3：[硬件方向导图.pdf](https://cs-ans.chaoxing.com/download/0ca9830c211eefb67da74650d958a155)
 
