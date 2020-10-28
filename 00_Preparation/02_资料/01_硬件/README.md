@@ -10,7 +10,7 @@
 
   配套资料：
 
-  ~~下载地址1：[51开发板资料V3_2.7z](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/02_%E8%B5%84%E6%96%99/01_%E7%A1%AC%E4%BB%B6/51%E5%BC%80%E5%8F%91%E6%9D%BF%E8%B5%84%E6%96%99V3_2.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685293;1605277293&q-key-time=1602685293;1605277293&q-header-list=&q-url-param-list=&q-signature=fe79a2674f7a1acbd6a284b1ea41c3464fb97758)~~
+  ~~下载地址1：[51开发板资料V3_2.7z](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/02_%E8%B5%84%E6%96%99/01_%E7%A1%AC%E4%BB%B6/51%E5%BC%80%E5%8F%91%E6%9D%BF%E8%B5%84%E6%96%99V3_2.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685293;1605277293&q-key-time=1602685293;1605277293&q-header-list=&q-url-param-list=&q-signature=fe79a2674f7a1acbd6a284b1ea41c3464fb97758)~~**[已失效]**
 
   下载地址2：[51开发板资料V3_2.7z](https://share.weiyun.com/jtmYimEM)
 
