@@ -14,3 +14,4 @@
 - [01_Intro&First_AD_prj(专业概况&第一个AD工程)](01_Intro&First_AD_prj)
 - [02_PCB_Design-Lesson1(PCB设计-第一课时)](02_PCB_Design-Lesson1)
 - [03_PCB_Design-Lesson2(PCB设计-第二课时)](03_PCB_Design-Lesson2)
+- [04_PCB_Design-Lesson3(PCB设计-第三课时)](04_PCB_Design-Lesson3)
