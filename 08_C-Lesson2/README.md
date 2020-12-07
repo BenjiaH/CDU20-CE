@@ -2,6 +2,6 @@
 
 - 2020/12/6
 
-#### >>>datatypes
+#### >>>datatypes(src/datatypes.c)
 
-- C语言中的数据类型。
+- C语言中的各种数据类型。
