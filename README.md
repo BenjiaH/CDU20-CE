@@ -19,4 +19,4 @@
 - [05_PCB_Design-Lesson4(PCB设计-第四课时)](05_PCB_Design-Lesson4)
 - [06_PCB_Design-Lesson5(PCB设计-第五课时)](06_PCB_Design-Lesson5)
 - [07_C-Lesson1(C编程-第一课时)](07_C-Lesson1)
-- [07_C-Lesson2(C编程-第二课时)](08_C-Lesson2)
+- [08_C-Lesson2(C编程-第二课时)](08_C-Lesson2)
