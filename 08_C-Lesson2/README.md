@@ -2,6 +2,6 @@
 
 - 2020/12/6
 
-#### >>>[datatypes](src/datatypes.c)
+#### >>>[string format](src/str_format.c)
 
-- C语言中的各种数据类型。
+- C语言中的字符串格式化。
