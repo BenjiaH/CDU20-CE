@@ -4,7 +4,7 @@
 int main()
 {
     system("chcp 65001");
-    printf("Hello World!哈哈\n");
+    printf("Hello World!\n");
     getchar();
 
     return 0;
