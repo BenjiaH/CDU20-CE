@@ -22,3 +22,4 @@
 |[06_PCB_Design-Lesson5(PCB设计-第五课时)](06_PCB_Design-Lesson5)       |2020/11/22|
 |[07_C-Lesson1(C编程-第一课时)](07_C-Lesson1)                           |2020/11/29|
 |[08_C-Lesson2(C编程-第二课时)](08_C-Lesson2)                           |2020/12/06|
+|[09_C-Lesson3(C编程-第三课时)](09_C-Lesson3)                           |2020/12/13|
