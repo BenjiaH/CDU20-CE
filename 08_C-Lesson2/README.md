@@ -2,6 +2,6 @@
 
 - 2020/12/6
 
-#### >>>[string format](src/str_format.c)
+#### >>>[string_format.c](src/str_format.c)
 
 - C语言中的字符串格式化。

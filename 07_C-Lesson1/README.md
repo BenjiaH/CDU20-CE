@@ -2,6 +2,6 @@
 
 - 2020/11/29
 
-#### [>>>HelloWorld](src/HelloWorld.c)
+#### [>>>HelloWorld.c](src/HelloWorld.c)
 
 - 第一个C程序。在屏幕上输出`HelloWorld`。

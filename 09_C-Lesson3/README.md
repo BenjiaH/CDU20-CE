@@ -4,7 +4,7 @@
 
 ## content
 
-### >>>[datatypes](src/data_types.c)
+### >>>[data_types.c](src/data_types.c)
 
 - C语言中的数据类型。
 
@@ -20,3 +20,7 @@
 |char           |字符       |1          |
 |unsigned int   |无符号整形 |4          |
 |unsigned char  |无符号字符 |1          |
+
+### >>>[equation.c](src/equation.c)
+
+- 利用C语言解一般形式的一元二次方程。
