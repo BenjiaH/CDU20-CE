@@ -11,8 +11,8 @@
 
 ## 目录
 
-|内容                                                                  |日期|
-|----                                                                  |----|
+|内容                                                                  |日期       |
+|:----                                                                 |:----     |
 |[00_Preparation(开学前准备)](00_Preparation)                           |          |
 |[01_Intro&First_AD_prj(专业概况&第一个AD工程)](01_Intro&First_AD_prj)   |2020/10/18|
 |[02_PCB_Design-Lesson1(PCB设计-第一课时)](02_PCB_Design-Lesson1)       |2020/10/25|
