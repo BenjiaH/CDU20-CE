@@ -26,6 +26,8 @@ int main(void)  //主函数
     printf("The result of (%d)x^2+(%d)x+(%d)=0:\n", a, b, c);
     printf("x1 = %f\nx2 = %f\n", x1, x2);       //输出结果
 
-    while(1);
+    fflush(stdin);
+    getchar();
+    // while(1);
     return 0;
 }
