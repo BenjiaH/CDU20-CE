@@ -128,11 +128,13 @@
 
 ### 判断
 
-- 利用C语言解一般形式的一元二次方程。并利用`if  else`判断解的情况。
+#### if...else
+
+- 利用C语言解一般形式的一元二次方程。并利用`if()...else`判断解的情况。
 
 ```c
 //code
-if(condition1)
+if(condition)
 {
     dothing1();
 }
@@ -143,4 +145,72 @@ else
 //code
 ```
 
-- [>>>judgment.c](src/judgment.c)
+- [>>>if_else.c](src/if_else.c)
+
+#### switch
+
+- switch 开关语句。
+
+```c
+//code
+switch(val)
+{
+    case    condition1:dothing1();  break;
+    case    condition2:dothing2();  break;
+    case    condition3:dothing3();  break;
+    default           :donothing(); break;
+}
+//code
+```
+
+- [>>>switch.c](src/switch.c)
+
+### 循环
+
+#### while
+
+- while循环`while(condition)`
+
+```c
+//code
+while(condition)
+{
+    dothing1();
+}
+//code
+```
+
+- [>>>while.c](src/while.c)
+
+#### do...while
+
+- do...whle循环`do{}while()`
+
+```c
+//code
+do
+{
+    dothing1();
+}while(condition);
+//code
+```
+
+- [>>>do_while.c](src/do_while.c)
+
+#### for
+
+- for循环`for(init; condition; increment)`
+
+```c
+//code
+int i = 0;
+for(i = 0; i < 3; i++)  //循环3次
+// for(int i = 0; i < 5; i = i + 1)
+// for(; ; )
+{
+    dothing1();
+}
+//code
+```
+
+- [>>>for.c](src/for.c)
