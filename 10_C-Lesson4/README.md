@@ -131,16 +131,14 @@
 - 利用C语言解一般形式的一元二次方程。并利用`if  else`判断解的情况。
 
 ```c
+//code
 if(condition1)
 {
     dothing1();
 }
-else if(condition2)
+else
 {
     dothing2();
 }
-else
-{
-    dothing3();
-}
+//code
 ```
