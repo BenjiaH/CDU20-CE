@@ -6,8 +6,6 @@
 
 ### 字符串格式化
 
-- [>>>string_format.c](src/str_format.c)
-
 - C语言中的字符串格式化。
 
 |string format|内容|
@@ -20,3 +18,6 @@
 |%f           |float型的参数会被转成十进制数字，并取到小数点以下六位，四舍五入
 |%e           |double型的参数以指数形式打印，有一个数字会在小数点前，六位数字在小数点后，而在指数部分会以小写的e 来表示
 |%c           |整型数的参数会被转成unsigned char 型打印出
+
+
+- [>>>string_format.c](src/str_format.c)
