@@ -1,5 +1,4 @@
 #include "stdio.h"
-#include "math.h"
 
 int main(void)  //主函数
 {
@@ -14,8 +13,7 @@ int main(void)  //主函数
             case    0:  printf("after switch: val = %d\n", val);    break;
             case    1:  printf("after switch: val = %d\n", val);    break;
             case    2:  printf("after switch: val = %d\n", val);    break;
-            default  :  printf("after switch: val = ?\n");          break;
-            break;
+            default  :  printf("after switch: val = ?\n");
         }
     }
 
