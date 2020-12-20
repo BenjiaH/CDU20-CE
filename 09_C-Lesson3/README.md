@@ -6,8 +6,6 @@
 
 ### 数据类型
 
-- [>>>data_types.c](src/data_types.c)
-
 - C语言中的数据类型。
 
 - 数据类型
@@ -23,6 +21,10 @@
 |unsigned int   |无符号整形 |4          |
 |unsigned char  |无符号字符 |1          |
 
-### >>>[equation.c](src/equation.c)
+- [>>>data_types.c](src/data_types.c)
+
+### 求解一般形式的一元二次方程
 
 - 利用C语言解一般形式的一元二次方程。
+  
+- [>>>equation.c](src/equation.c)
