@@ -4,7 +4,9 @@
 
 ## content
 
-### >>>[data_types.c](src/data_types.c)
+### 数据类型
+
+- [>>>data_types.c](src/data_types.c)
 
 - C语言中的数据类型。
 
