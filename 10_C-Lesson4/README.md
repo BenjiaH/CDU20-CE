@@ -4,7 +4,7 @@
 
 ## content
 
-### >>>[operator.c](src/operator.c)
+### 操作符
 
 - C语言中的操作符。
 
@@ -126,7 +126,9 @@
 </tr>
 </table>
 
-### >>>[judgment.c](src/judgment.c)
+### 判断
+
+- [>>>judgment.c](src/judgment.c)
 
 - 利用C语言解一般形式的一元二次方程。并利用`if  else`判断解的情况。
 
