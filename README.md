@@ -11,16 +11,17 @@
 
 ## 目录
 
-|内容                                                                  |日期       |
-|:----                                                                 |:----     |
-|[00_Preparation(开学前准备)](00_Preparation)                           |          |
-|[01_Intro&First_AD_prj(专业概况&第一个AD工程)](01_Intro&First_AD_prj)   |2020/10/18|
-|[02_PCB_Design-Lesson1(PCB设计-第一课时)](02_PCB_Design-Lesson1)       |2020/10/25|
-|[03_PCB_Design-Lesson2(PCB设计-第二课时)](03_PCB_Design-Lesson2)       |2020/11/01|
-|[04_PCB_Design-Lesson3(PCB设计-第三课时)](04_PCB_Design-Lesson3)       |2020/11/08|
-|[05_PCB_Design-Lesson4(PCB设计-第四课时)](05_PCB_Design-Lesson4)       |2020/11/15|
-|[06_PCB_Design-Lesson5(PCB设计-第五课时)](06_PCB_Design-Lesson5)       |2020/11/22|
-|[07_C-Lesson1(C编程-第一课时)](07_C-Lesson1)                           |2020/11/29|
-|[08_C-Lesson2(C编程-第二课时)](08_C-Lesson2)                           |2020/12/06|
-|[09_C-Lesson3(C编程-第三课时)](09_C-Lesson3)                           |2020/12/13|
-|[10_C-Lesson4(C编程-第四课时)](10_C-Lesson4)                           |2020/12/20|
+|内容                                                                      |日期       |
+|:----                                                                     |:----     |
+|[00_Preparation(开学前准备)](00_Preparation)                               |          |
+|[01_Intro&First_AD_prj(专业概况&第一个AD工程)](01_Intro&First_AD_prj)      |2020/10/18|
+|[02_PCB_Design-Lesson1(PCB设计-第一课时)](02_PCB_Design-Lesson1)           |2020/10/25|
+|[03_PCB_Design-Lesson2(PCB设计-第二课时)](03_PCB_Design-Lesson2)           |2020/11/01|
+|[04_PCB_Design-Lesson3(PCB设计-第三课时)](04_PCB_Design-Lesson3)           |2020/11/08|
+|[05_PCB_Design-Lesson4(PCB设计-第四课时)](05_PCB_Design-Lesson4)           |2020/11/15|
+|[06_PCB_Design-Lesson5(PCB设计-第五课时)](06_PCB_Design-Lesson5)           |2020/11/22|
+|[07_C-Lesson1(C编程-第一课时)](07_C-Lesson1)                               |2020/11/29|
+|[08_C-Lesson2(C编程-第二课时)](08_C-Lesson2)                               |2020/12/06|
+|[09_C-Lesson3(C编程-第三课时)](09_C-Lesson3)                               |2020/12/13|
+|[10_C-Lesson4(C编程-第四课时)](10_C-Lesson4)                               |2020/12/20|
+|[11_C-Lesson5&final_exam(C编程-第五课时&期末考核)](11_C-Lesson5&final_exam) |2020/12/27|
