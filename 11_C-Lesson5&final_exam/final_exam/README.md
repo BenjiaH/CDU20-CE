@@ -17,8 +17,8 @@
 
 ### 1.2注意事项
 
-- 1.原理图位于“2020-2021-1_final_exam\PCB_Design\STC89C52_core_board\STC89C52_core_board.pdf”；
-- 2.集成库文件位于“2020-2021-1_final_exam\PCB_Design\STC89C52_core_board\STC89C52_core_board.IntLib”；
+- 1.原理图位于“[2020-2021-1_final_exam\PCB_Design\STC89C52_core_board\STC89C52_core_board_schematic.pdf](2020-2021-1_final_exam\PCB_Design\STC89C52_core_board\STC89C52_core_board_schematic.pdf)”；
+- 2.集成库文件位于“[2020-2021-1_final_exam\PCB_Design\STC89C52_core_board\STC89C52_core_board.IntLib](2020-2021-1_final_exam\PCB_Design\STC89C52_core_board\STC89C52_core_board.IntLib)”；
 - 3.请安装本次考核提供的PCB专用库(STC89C52_core_board.IntLib)，否则3D封装会出错，若使用本次考核以外封装库，成绩作废。原理图的绘制一定要和PDF文档一致，不得自行更改；
 - 4.提交说明：提交的文件夹中需要包含三个文件，并且三个文件的命名均为“STC89C52_core_board”，如下图。其余文件均需要删除后提交：
 ![3_fiels](data/img/2020-12-22_16-25-57_img.png)
@@ -51,4 +51,4 @@
 
 ## 3.考核资料下载地址
 
-下载地址：[2020-2021-1_final_exam.zip](https://cs-ans.chaoxing.com/download/5651a542ee6e8fee9d4151162760fbf7)
+~~下载地址：[2020-2021-1_final_exam.zip](https://)~~
