@@ -5,13 +5,13 @@
 - 考核截止时间：2020年1月22日23:59。
 
 - 注意事项：
-  - 1.本次考核共有两个大题，任选其一即可；
+  - 1.本次考核共有两个大题，任选其一即可。下载资料后请解压文件；
   - 2.请将考核提交作品放入文件夹并压缩成“ .zip”文件，文件夹与压缩文件均命名为“学号_姓名_题目编号”。例如：“202010428301_张三_1.zip”；
   - 3.请在截止日期前将压缩包提交给科技委员；
   - 4.若选题为“PCB电路设计”
     - a.提交前请将工程文件夹中的“History”文件夹删除；
-    - b.原理图位于“\PCB_Design\STC89C52_core_board\STC89C52_core_board.pdf”；
-    - c.集成库文件位于“\PCB_Design\STC89C52_core_board\STC89C52_core_board.IntLib”；
+    - b.原理图位于“2020-2021-1_final_exam\PCB_Design\STC89C52_core_board\STC89C52_core_board.pdf”；
+    - c.集成库文件位于“2020-2021-1_final_exam\PCB_Design\STC89C52_core_board\STC89C52_core_board.IntLib”；
     - d.严禁使用自动布线。
   - 5.若选题为“C语言程序设计”，只需提交源代码(C Source file)文件；
   - 6.严禁抄袭，若有雷同，严肃处理。
