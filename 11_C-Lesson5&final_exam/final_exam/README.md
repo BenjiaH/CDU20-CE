@@ -51,4 +51,4 @@
 
 ## 3.考核资料下载地址
 
-~~下载地址：[2020-2021-1_final_exam.zip](https://)~~
+下载地址：[2020-2021-1_final_exam.zip](https://cs-ans.chaoxing.com/download/497b0131ff6e6e7632988648e4363613)
