@@ -8,6 +8,8 @@
 
 - C语言中的字符串格式化。
 
+#### string format
+
 |string format|内容|
 |---          |---|
 |%d           |整数的参数会被转成有符号的十进制数字
@@ -19,5 +21,6 @@
 |%e           |double型的参数以指数形式打印，有一个数字会在小数点前，六位数字在小数点后，而在指数部分会以小写的e 来表示
 |%c           |整型数的参数会被转成unsigned char 型打印出
 
+#### 例程
 
 - [>>>string_format.c](src/str_format.c)

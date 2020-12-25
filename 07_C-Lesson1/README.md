@@ -4,8 +4,10 @@
 
 ## content
 
-### Hello World!
+### Hello World
 
 - 第一个C程序。在屏幕上输出`HelloWorld`。
+
+#### 例程
 
 - [>>>HelloWorld.c](src/HelloWorld.c)
