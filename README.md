@@ -24,4 +24,4 @@
 |[08_C-Lesson2(C编程-第二课时)](08_C-Lesson2)                               |2020/12/06|
 |[09_C-Lesson3(C编程-第三课时)](09_C-Lesson3)                               |2020/12/13|
 |[10_C-Lesson4(C编程-第四课时)](10_C-Lesson4)                               |2020/12/20|
-|[11_C-Lesson5-final_exam(C编程-第五课时-期末考核)](11_C-Lesson5&final_exam) |2020/12/27|
+|[11_C-Lesson5-final_exam(C编程-第五课时&期末考核)](11_C-Lesson5-final_exam) |2020/12/27|
