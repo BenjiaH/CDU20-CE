@@ -1,0 +1,6 @@
+*.build_log.htm
+*.lnp
+*.obj
+*.lst
+*.m51
+*.uvgui.*
