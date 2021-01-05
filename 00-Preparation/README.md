@@ -35,27 +35,16 @@
 - 关于软件及资料的下载，我们将采取多种方式，比如直链下载、网盘下载等。
 
 - 下载的部分文件为压缩包(zip,rar,7z等)，需要使用解压软件，这里推荐一款：**Bandzip** 。  
-    - [官网](https://www.bandisoft.com/bandizip/)  
-    - [下载地址](https://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE)
-
+  - [官网](https://www.bandisoft.com/bandizip/)  
+  - [下载地址](https://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE)
 - 正确的解压方式：
-
     **请完全将压缩包解压，切忌单独提取文件使用！**
-
-![](../02_PCB_Design-Lesson1/data/img/2020-10-19_20-45.png)
-
-
+    ![pic1](../02-PCB_Design_Lesson1/data/img/2020-10-19_20-45.png)
 - 在使用百度网盘(PC客户端)进行下载时，需要一些必要的操作，来的提高速度：
-
-    - 确保你的百度网盘为最新版本。
-
-	![](data/img/README_01.png)
-
-    - 按照图片进行修改。选择提速模式。
-
-	![](data/img/README_02.png)
-
-	![](data/img/README_03.png)
-
+  - 确保你的百度网盘为最新版本。
+  ![pic2](data/img/README_01.png)
+  - 按照图片进行修改。选择提速模式。
+    ![pic3](data/img/README_02.png)
+    ![pic4](data/img/README_03.png)
 
 [返回上一级](../README.md)
