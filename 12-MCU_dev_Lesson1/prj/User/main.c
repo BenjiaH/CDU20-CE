@@ -5,12 +5,12 @@
 
 void main(void)
 {
-	while(1)
-	{
-		P1_3 = 0;
-		Hard_Delay_Ms(500);
-		P1_3 = 0XFF;
-		Hard_Delay_Ms(500);
-		Display(123);
-	}
+    while(1)
+    {
+        P1_3 = 0;
+        Hard_Delay_Ms(500);
+        P1_3 = 0XFF;
+        Hard_Delay_Ms(500);
+        Display(123);
+    }
 }
