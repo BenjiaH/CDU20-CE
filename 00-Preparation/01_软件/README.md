@@ -11,7 +11,7 @@
 
 ## Keil uVision® 5
 
-- 提供Cortex和Arm设备的开发环境。
+- 提供Arm和C51等设备的开发环境。
 
 - ~~下载地址1：[Keil uVision5.7z](https://cdu20-ce-1257520229.cos.ap-chengdu.myqcloud.com/CDU20-CE/00_%E5%BC%80%E5%AD%A6%E5%89%8D%E5%87%86%E5%A4%87/01_%E8%BD%AF%E4%BB%B6/Keil%20uVision5.7z?q-sign-algorithm=sha1&q-ak=AKIDjOznEfcDML9nIdTZCf4OaheQ2VoyqxiI&q-sign-time=1602685254;1605277254&q-key-time=1602685254;1605277254&q-header-list=&q-url-param-list=&q-signature=20518f37de8adb3ea68d4658870c197500bf4610)~~ **[已失效]**
 - 下载地址2：[Keil uVision5.7z](https://cs-ans.chaoxing.com/download/cc6e264d68f02830bcd2359ed58e2664)
