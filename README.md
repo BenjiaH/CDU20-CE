@@ -25,4 +25,4 @@
 |[09-C_Lesson3(C编程-第三课时)](09-C_Lesson3)                               |2020/12/13|
 |[10-C_Lesson4(C编程-第四课时)](10-C_Lesson4)                               |2020/12/20|
 |[11-C_Lesson5-final_exam(C编程-第五课时&期末考核)](11-C_Lesson5-final_exam) |2020/12/27|
-|[12-emb_dev_Lesson1(嵌入式开发-第一课时)](12-emb_dev_Lesson1)               |2021/xx/xx|
+|[12-MCU_dev_Lesson1(单片机开发-第一课时)](12-MCU_dev_Lesson1)               |2021/xx/xx|
