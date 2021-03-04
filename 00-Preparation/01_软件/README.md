@@ -20,7 +20,7 @@
 
 - Multisim是一款功能强大的仿真和电路设计软件，适用于模拟、数字和电力电子领域的教学和研究，能够将直观的原理图搭建与强大的仿真功能结合起来，可以帮助用户快速、轻松、高效地设计和验证电路。
 
-- 下载地址：[Proteus 8.10 SP3破解版下载(附汉化补丁)](https://pan.baidu.com/share/init?surl=5suYOaDiyfvJB2HGQ4nsMw)`提取码：y3qp`
+- 下载地址：[Multisim 14.1破解版下载(附汉化补丁)](https://pan.baidu.com/share/init?surl=5suYOaDiyfvJB2HGQ4nsMw)`提取码：y3qp`
 - [安装教程](http://www.zhanshaoyi.com/14930.html)
 
 
