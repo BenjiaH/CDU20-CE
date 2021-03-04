@@ -9,6 +9,21 @@
 - 下载地址2：[Altium Designer 20(64bit).rar](https://pan.baidu.com/s/1qAUJxU0-VIVNXgBlgoJejg)`提取码：8888`
 - [安装教程](https://mp.weixin.qq.com/s/8kcLKTzMeBBS7DCIVw6jFg)
 
+## Proteus
+
+- Proteus是著名的EDA工具(仿真软件)，从原理图布图、代码调试到单片机与外围电路协同仿真，一键切换到PCB设计，真正实现了从概念到产品的完整设计。是唯一将电路仿真软件、PCB设计软件和虚拟模型仿真软件三合一的设计平台。新版本中增加了对PAD周围更多圆孔的支持，并扩展了区域交叉填充以支持对角线/网格交叉填充，从而更好的帮助用户设计出灵活的PCB，为用户提供一个更好的使用体验感。
+
+- 下载地址：[Proteus 8.10 SP3破解版下载(附汉化补丁)](https://pan.baidu.com/share/init?surl=fLQB8mXDf62ejoSnXISXpg)`提取码：ckxv`
+- [安装教程](http://www.zhanshaoyi.com/16055.html)
+
+## Multisim 14.1
+
+- Multisim是一款功能强大的仿真和电路设计软件，适用于模拟、数字和电力电子领域的教学和研究，能够将直观的原理图搭建与强大的仿真功能结合起来，可以帮助用户快速、轻松、高效地设计和验证电路。
+
+- 下载地址：[Proteus 8.10 SP3破解版下载(附汉化补丁)](https://pan.baidu.com/share/init?surl=5suYOaDiyfvJB2HGQ4nsMw)`提取码：y3qp`
+- [安装教程](http://www.zhanshaoyi.com/14930.html)
+
+
 ## Keil uVision® 5
 
 - 提供Arm和C51等设备的开发环境。
